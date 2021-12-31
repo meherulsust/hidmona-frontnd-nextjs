@@ -7,7 +7,7 @@ export default function Index() {
   return (
     <>
       <Head>
-        <title>Global Home - Hidmona Money Transfer</title>
+        <title>Global Hidmona Money Transfer</title>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta property="og:title" content="Global Home" />

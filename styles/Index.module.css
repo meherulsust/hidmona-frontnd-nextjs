@@ -1,0 +1,10 @@
+.line_border {
+	background:#de5310; 
+	height:1.5px;
+}
+
+.svg {
+  transform: rotate(180deg);
+  fill: #e1e1e1;
+	margin-bottom:-50px !important;
+}

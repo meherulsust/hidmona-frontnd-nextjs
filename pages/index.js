@@ -9,6 +9,7 @@ export default function Index() {
       <Head>
         <title>Global Hidmona Money Transfer</title>
         <meta charSet="utf-8" />
+        <link rel="icon" href="assets/images/hidmona_logo_mobile.png" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta property="og:title" content="Global Home" />
         <meta property="og:type" content="website" />
